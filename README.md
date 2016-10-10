@@ -1,8 +1,8 @@
 # Google material design icons loader for [webpack](http://webpack.github.io/)
 
 ## Install
-i`npm install material-design-icons-loader --save-dev`
 
+`npm install material-design-icons-loader --save-dev`
 
 ## License
 
