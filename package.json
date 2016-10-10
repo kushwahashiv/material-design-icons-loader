@@ -1,0 +1,26 @@
+{
+  "name": "material-design-icons-loader",
+  "version": "1.0.0",
+  "description": "Google Material Design Icons Webpack Loader",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kushwahashiv/material-design-icons-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "material",
+    "design",
+    "icons",
+    "font"
+  ],
+  "author": "Shiv Kushwaha <kushwaha.shiv@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kushwahashiv/material-design-icons-loader/issues"
+  },
+  "homepage": "https://github.com/kushwahashiv/material-design-icons-loader",
+  "dependencies": {
+    "material-design-icons": "^3.0.1"
+  }
+}
